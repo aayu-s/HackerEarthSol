@@ -1,7 +1,7 @@
 
 
 #new changes
-# TROLLED : Just realised every number can be represented as prime number
+#Every even number can be represented as prime number
 t = int(input())
 while t>0:
     t -= 1
@@ -11,6 +11,7 @@ while t>0:
     else:
         print("Arjit")
 
+# METHOD 2 : for all the numbers
 # import math
 
 # t = int(input())
